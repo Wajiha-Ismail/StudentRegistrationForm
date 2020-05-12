@@ -1,0 +1,25 @@
+.center{
+    display: block;
+    width: 40%;
+    margin-top: auto;
+    margin-left:auto ;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+p{
+    color: blueviolet;
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+
+a{
+    color: purple;
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: normal;
+}
